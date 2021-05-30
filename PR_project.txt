@@ -1,0 +1,15 @@
+
+Data Sources:
+
+https://www.kaggle.com/nsharan/h-1b-visa
+https://datahub.io/core/s-and-p-500-companies#data
+
+Code Sorces:
+
+https://github.com/belizgunel/cs229proj
+https://www.datacamp.com/community/tutorials/predicting-H-1B-visa-status-python
+
+
+Youtube link
+
+https://youtu.be/DzwxiO4CgsU
